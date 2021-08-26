@@ -1,0 +1,5 @@
+package com.email.model;
+
+public class EmailResposne {
+
+}

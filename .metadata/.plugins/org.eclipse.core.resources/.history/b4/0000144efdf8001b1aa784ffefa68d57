@@ -1,0 +1,9 @@
+package com.email.model;
+
+public class EmailRequest {
+	private String to;
+	private String message;
+	private String subject;
+	
+
+}
